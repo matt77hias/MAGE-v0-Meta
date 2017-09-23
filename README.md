@@ -15,7 +15,7 @@
 # [MAGE-Meta](https://matt77hias.github.io/MAGE-Meta/)
 
 ## About
-<p align="center"><img src="res/Example.png"></p>
+<p align="center"><img src="https://github.com/matt77hias/MAGE/blob/master/res/Example.png"></p>
 
 The meta data of [MAGE](https://github.com/matt77hias/MAGE).
 
