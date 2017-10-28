@@ -20,6 +20,9 @@
 
 The meta data of [MAGE](https://github.com/matt77hias/MAGE).
 
+## Assets
+* [MAGE-Assets](https://github.com/matt77hias/MAGE-Assets)
+
 ## Code
 * [MAGE](https://github.com/matt77hias/MAGE)
 
