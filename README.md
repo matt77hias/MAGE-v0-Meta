@@ -1,6 +1,6 @@
-<img align="left" src="https://github.com/matt77hias/MAGE/blob/master/res/MAGE.png" width="120px"/>
+<img align="left" src="https://github.com/matt77hias/MAGE-Meta/blob/master/res/MAGE.png" width="120px"/>
 
-[![Build status][s1]][av] [![Documentation][s2]][do] [![License][s3]][li] [![Join the chat at https://gitter.im/WickedEngine/Lobby][s4]][gi]
+[![Build status][s1]][av] [![Documentation][s2]][do] [![License][s3]][li] [![Join the chat][s4]][gi]
 <a href="https://twitter.com/intent/follow?screen_name=matt77hias"><img src="https://img.shields.io/twitter/follow/matt77hias.svg?style=social" alt="follow on Twitter"></a>
 
 [s1]: https://ci.appveyor.com/api/projects/status/ike880pg85pupdj6?svg=true
@@ -16,7 +16,7 @@
 # [MAGE-Meta](https://matt77hias.github.io/MAGE-Meta/)
 
 ## About
-<p align="center"><img src="https://github.com/matt77hias/MAGE/blob/master/res/Example.png"></p>
+<p align="center"><img src="https://github.com/matt77hias/MAGE-Meta/blob/master/res/Example.png"></p>
 
 The meta data of [MAGE](https://github.com/matt77hias/MAGE).
 
