@@ -33,4 +33,4 @@ The meta data of [MAGE](https://github.com/matt77hias/MAGE).
 ## Utilities
 * [MAGE-SpriteFont](https://github.com/matt77hias/MAGE-SpriteFont)
 
-<p align="center">Copyright © 2016-2021 Matthias Moulin. All Rights Reserved.</p>
+<p align="center">Copyright © 2016-2022 Matthias Moulin. All Rights Reserved.</p>
