@@ -28,9 +28,9 @@ The meta data of [MAGE v0](https://github.com/matt77hias/MAGE-v0).
 * [MAGE v0 - Code](https://github.com/matt77hias/MAGE-v0)
 
 ## Documentation
-* [MAGE-v0-Doc](https://github.com/matt77hias/MAGE-v0-Doc)
+* [MAGE v0 - Doc](https://github.com/matt77hias/MAGE-v0-Doc)
 
 ## Utilities
-* [MAGE-v0-SpriteFont](https://github.com/matt77hias/MAGE-v0-SpriteFont)
+* [MAGE v0 - SpriteFont](https://github.com/matt77hias/MAGE-v0-SpriteFont)
 
 <p align="center">Copyright © 2016-2023 Matthias Moulin. All Rights Reserved.</p>
