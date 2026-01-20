@@ -31,4 +31,4 @@ The meta data of [MAGE v0](https://github.com/matt77hias/MAGE-v0).
 ## Utilities
 * [MAGE v0 - SpriteFont](https://github.com/matt77hias/MAGE-v0-SpriteFont)
 
-<p align="center">Copyright © 2016-2025 Matthias Moulin. All Rights Reserved.</p>
+<p align="center">Copyright © 2016-2026 Matthias Moulin. All Rights Reserved.</p>
